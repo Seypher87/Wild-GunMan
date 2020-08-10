@@ -1,0 +1,2 @@
+fondo 800x400
+sprites 240x116
